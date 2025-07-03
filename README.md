@@ -28,13 +28,13 @@ APERTANDO WINDOWS E PONTO POSSO COLOCAR EMOJIS🚀
 
 
 GIF COM LINK DA MANEIRA DA AULA
-[<img src="../AULA-README.md/Animação.gif">](https://www.youtube.com/watch?v=7hMaHDTw-pI)
+[<img src="./Animação.gif">](https://www.youtube.com/watch?v=7hMaHDTw-pI)
 
 GIF SEM O LINK DO MEU JEITO
-<img src="../AULA-README.md/Animação.gif">
+<img src="Animação.gif">
 
 GIF COM O LINK DA MINHA MANEIRA
-<a href="https://www.youtube.com/watch?v=7hMaHDTw-pI"><img src="../AULA-README.md/Animação.gif"></a>
+<a href="https://www.youtube.com/watch?v=7hMaHDTw-pI"><img src="./Animação.gif"></a>
 
 ---
 
@@ -63,3 +63,6 @@ Algumas referências para ajudar na hora da criação do README
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+
+
+[def]: nimação.gi
